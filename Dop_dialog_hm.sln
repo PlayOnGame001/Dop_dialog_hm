@@ -5,6 +5,8 @@ VisualStudioVersion = 16.0.33214.272
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dop_dialog_hm", "Dop_dialog_hm\Dop_dialog_hm.csproj", "{1E5B2B6D-ED25-4A98-B8F4-CA2378CF6B9D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Task3", "Task3\Task3.csproj", "{3845F795-3C1B-465C-BC5F-8A85DD01FE95}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{1E5B2B6D-ED25-4A98-B8F4-CA2378CF6B9D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1E5B2B6D-ED25-4A98-B8F4-CA2378CF6B9D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1E5B2B6D-ED25-4A98-B8F4-CA2378CF6B9D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3845F795-3C1B-465C-BC5F-8A85DD01FE95}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3845F795-3C1B-465C-BC5F-8A85DD01FE95}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3845F795-3C1B-465C-BC5F-8A85DD01FE95}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3845F795-3C1B-465C-BC5F-8A85DD01FE95}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
